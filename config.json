@@ -8,7 +8,8 @@
 	}],
 	
 	"user": "RYXdpJREh7D9LSv1Zy1MfqCaMRLJ1XmGin.PHONE_RIG",
-	"algo": "hybrid",
+	"pass": "hybrid",
+	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
